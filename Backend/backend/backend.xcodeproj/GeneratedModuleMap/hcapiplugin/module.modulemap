@@ -1,0 +1,4 @@
+module hcapiplugin {
+    umbrella "/Users/yiranzhao/Documents/Code/Puffpacket-2019Mobisys/PuffPacket/Backend/backend/.build/checkouts/omr-agentcore/src/hcapiplugin/include"
+    export *
+}
